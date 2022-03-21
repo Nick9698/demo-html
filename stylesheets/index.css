@@ -1,0 +1,10 @@
+.categories{
+    float: right;
+    height: 40px;
+    width: 40px;
+}
+
+.categories-anchor{
+    text-decoration: inherit;
+    color: ivory;
+}
